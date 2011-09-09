@@ -1,0 +1,6 @@
+DEPLOY_TARGET=./deploy
+MAGENTO_DESIGN_PACKAGE=enterprise/helti100
+MAGENTO_SKIN_PACKAGE=enterprise/helti100
+MODULE_NAME=Helti100_Varnish
+MODULE_CODE_PATH=Helti100/Varnish
+MODULE_DESIGN_PATH=helti100_varnish
